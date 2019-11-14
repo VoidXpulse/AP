@@ -8,7 +8,7 @@ public class pascalTriangle {
         }
 
     }
-    public static int[] pascalCalc(int n) {
+    public static int[] pascalCalc(int n) { // e
         int[][] pascal = new int[n][n];
 
         pascal[0][0] = 1;
